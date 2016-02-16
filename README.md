@@ -1,5 +1,5 @@
 # spring-study-groups
-有志のSpring勉強会です。
+Spring(特にSpring MVC)を使ったアプリケーション開発向けの勉強会ページです。
 
 ## 対象者
 
@@ -12,13 +12,13 @@
 
 TERASOLUNA独自の考え方なども含まれていますが、Spring MVCを使ったWebアプリケーション開発に必要な基本的な知識を一通り得ることができます。
 
-なお、TERASOLUNAのガイドラインは、Java ConfigによるBean定義やSpring Bootに対応していません。
+なお、TERASOLUNA Server Framework for Java (5.x)のガイドラインは、Java ConfigによるBean定義やSpring Bootに対応していません。
 Java ConfigやSpring Bootを使って開発したい方は、創作課題を作成する際に採用してみてください。
 
 ## 進め方
 
 勉強会と銘打っていますが、基本的にはこちらから特別なアクションを起こすことはありません。
-TERASOLUNAのガイドラインベースに各自勉強してもらって、わからないところは[Issue](https://github.com/kazuki43zoo/spring-study-groups/issues/new)を発行して質問してください。ベストエフォートで回答します。
+TERASOLUNA Server Framework for Java (5.x)のガイドラインベースに各自勉強してもらって、わからないところは[Issue](https://github.com/kazuki43zoo/spring-study-groups/issues/new)を発行して質問してください。ベストエフォートで回答します。
 
 まず、[Springの理解度チェック](http://terasolunaorg.github.io/guideline/5.0.1.RELEASE/ja/Appendix/SpringComprehensionCheck.html)を実施し、Issueで回答をください。目的は現状の理解度の把握なので、ドーピング（こっそり調べて回答）はしないでください。わからなくても恥ずかしくありません！！（この時点では、回答は教えませんw -> 創作課題終了後にもう１度理解度チェックをしてもらいます）
 
