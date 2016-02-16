@@ -12,7 +12,7 @@
 
 TERASOLUNA独自の考え方なども含まれていますが、Spring MVCを使ったWebアプリケーション開発に必要な基本的な知識を一通り得ることができます。
 
-なお、TERASOLUNAのガイドラインは、Java ConfigやSpring Bootに対応していません。
+なお、TERASOLUNAのガイドラインは、Java ConfigによるBean定義やSpring Bootに対応していません。
 Java ConfigやSpring Bootを使って開発したい方は、創作課題を作成する際に採用してみてください。
 
 ## 進め方
