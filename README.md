@@ -3,7 +3,9 @@ Spring(特にSpring MVC)を使ったアプリケーション開発向けの勉�
 
 ## 対象者
 
-* Java、Servlet、JSP、DI(Dependency Injection)などの基本知識がある人
+以下を対象者として想定していますが、基本的には誰でも歓迎します。
+
+* Java、Servlet、JSP、DI(Dependency Injection)、AOP(Aspect Oriented Programming)などの基本知識がある人
 * Spring MVCを使ったWebアプリケーション開発の経験がない人
 
 ## 教材
