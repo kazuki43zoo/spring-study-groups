@@ -2,6 +2,8 @@ package com.example.helloworld.app.echo;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -51,7 +53,12 @@ public class EchoController {
 	 *                 メソッドが呼ばれる。
 	 */
 	@RequestMapping(value = "hello", method = RequestMethod.POST)
-	public String hello(EchoForm form, Model model) {
+	// Bean Validationによる入力チェックは、自動で行われる。結果は、 BindingResult オブジェクトに渡される。
+	public String hello(@Validated EchoForm form, BindingResult result, Model model) {
+		// エラーが有るかどうか
+		if (result.hasErrors()) {
+			return "echo/index";
+		}
 		model.addAttribute("name", form.getName());
 		return "echo/hello";
 	}
