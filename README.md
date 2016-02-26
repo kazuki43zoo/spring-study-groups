@@ -22,7 +22,7 @@ Java ConfigやSpring Bootを使って開発したい方は、創作課題を作�
 勉強会と銘打っていますが、基本的にはこちらから特別なアクションを起こすことはありません。
 TERASOLUNA Server Framework for Java (5.x)のガイドラインベースに各自勉強してもらって、わからないところは[Issue](https://github.com/kazuki43zoo/spring-study-groups/issues/new)を発行して質問してください。ベストエフォートで回答します。
 
-まず、[Springの理解度チェック](http://terasolunaorg.github.io/guideline/5.0.1.RELEASE/ja/Appendix/SpringComprehensionCheck.html)を実施し、Issueで回答をください。目的は現状の理解度の把握なので、ドーピング（こっそり調べて回答）はしないでください。わからなくても恥ずかしくありません！！（この時点では、回答は教えませんw -> 創作課題終了後にもう１度理解度チェックをしてもらいます）
+まず、[Springの理解度チェック](http://terasolunaorg.github.io/guideline/5.1.0.RELEASE/ja/Appendix/SpringComprehensionCheck.html)を実施し、Issueで回答をください。目的は現状の理解度の把握なので、ドーピング（こっそり調べて回答）はしないでください。わからなくても恥ずかしくありません！！（この時点では、回答は教えませんw -> 創作課題終了後にもう１度理解度チェックをしてもらいます）
 
 進め方に規定は設けませんが、何から手をつけたらよいかわからない人は、
 
@@ -43,10 +43,10 @@ TERASOLUNA Server Framework for Java (5.x)のガイドラインベースに各�
 
 以下のチュートリアルが用意されています。すべて実施するのがお勧めです。
 
-* [はじめてのSpring MVCアプリケーション](http://terasolunaorg.github.io/guideline/5.0.1.RELEASE/ja/Overview/FirstApplication.html)
-* [チュートリアル(Todoアプリケーション)](http://terasolunaorg.github.io/guideline/5.0.1.RELEASE/ja/TutorialTodo/index.html)
-* [チュートリアル(Todoアプリケーション REST編)](http://terasolunaorg.github.io/guideline/5.0.1.RELEASE/ja/TutorialREST/index.html)
-* [Spring Securityチュートリアル](http://terasolunaorg.github.io/guideline/5.0.1.RELEASE/ja/Security/Tutorial.html)
+* [はじめてのSpring MVCアプリケーション](http://terasolunaorg.github.io/guideline/5.1.0.RELEASE/ja/Overview/FirstApplication.html)
+* [チュートリアル(Todoアプリケーション)](http://terasolunaorg.github.io/guideline/5.1.0.RELEASE/ja/TutorialTodo/index.html)
+* [チュートリアル(Todoアプリケーション REST編)](http://terasolunaorg.github.io/guideline/5.1.0.RELEASE/ja/TutorialREST/index.html)
+* [Spring Securityチュートリアル](http://terasolunaorg.github.io/guideline/5.1.0.RELEASE/ja/Security/Tutorial.html)
 
 ## 創作課題「ユーザー管理システム」の要件
 
